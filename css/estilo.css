@@ -1,0 +1,39 @@
+body{
+
+	background-color:lightgreen;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+h1{
+
+
+	text-align: center;
+	border: 8px solid forestgreen;
+}
+
+p{
+	text-align: justify;
+	text-indent: 10px;
+	margin-right: 25px;
+	font-size: 15px;
+}
+
+img{ 
+	width: 80%;
+
+ }
+
+ figure{
+ 	text-align:center ;
+
+ }
+
